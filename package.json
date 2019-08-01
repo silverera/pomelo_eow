@@ -40,7 +40,7 @@
     "pomelo-admin": "git://github.com/silverera/pomelo-admin.git",
     "pomelo-logger": "0.1.7",
     "pomelo-scheduler": "git://github.com/silverera/pomelo-scheduler.git",
-    "ws": "7.0.0",
+    "ws": "7.1.1",
     "pomelo-protobuf": "git://github.com/silverera/pomelo-protobuf_silverera.git",
     "node-bignumber": "1.2.1",
     "commander": "2.0.0",
