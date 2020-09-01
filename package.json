@@ -44,7 +44,7 @@
     "pomelo-protobuf": "git://github.com/silverera/pomelo-protobuf_silverera.git",
     "node-bignumber": "1.2.1",
     "commander": "2.0.0",
-    "mqtt": "0.3.9"
+    "mqtt": "4.2.1"
   },
   "bin": {
     "pomelo": "./bin/pomelo"
